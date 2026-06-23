@@ -1,0 +1,6 @@
+# PDF Tools — Python 3.10+
+pypdf>=5.0.0,<6
+Pillow>=10.0.0,<12
+pymupdf>=1.24.0,<2
+windnd>=1.0.7; platform_system == "Windows"
+tkinterdnd2>=0.3.0,<0.4; platform_system != "Windows"
